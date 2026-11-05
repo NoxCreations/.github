@@ -27,7 +27,7 @@
 ## 🛠️ The Nox Tech Stack
 
 * 🧠 **AI/ML:**       Python | PyTorch | TensorFlow | Transformers | HuggingFace
-* 💻 **Systems:**     Rust | C++ | Go | CUDA | Qiskit
+* 💻 **Systems:**     Rust | C++ | Go | CUDA | Zig | Node | Web
 * 🎮 **Gaming:**      Voxel | Godot | Custom
 * 🌀 **Quantum/Ast:** Qiskit | Astropy | Julia
 
