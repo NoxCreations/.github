@@ -26,10 +26,10 @@
 
 ## 🛠️ The Nox Tech Stack
 
-*🧠 **AI/ML:**       Python | PyTorch | TensorFlow | Transformers | HuggingFace
-*💻 **Systems:**     Rust | C++ | Go | CUDA | Qiskit
-*🎮 **Gaming:**      Voxel | Godot | Custom
-*🌀 **Quantum/Ast:** Cirq | PennyLane | Astropy | Julia
+* 🧠 **AI/ML:**       Python | PyTorch | TensorFlow | Transformers | HuggingFace
+* 💻 **Systems:**     Rust | C++ | Go | CUDA | Qiskit
+* 🎮 **Gaming:**      Voxel | Godot | Custom
+* 🌀 **Quantum/Ast:** Cirq | PennyLane | Astropy | Julia
 
 ---
 
