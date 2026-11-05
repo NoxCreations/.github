@@ -33,12 +33,3 @@
 
 ---
 
-## 🤝 Join the Constellation
-
-We believe the future of technology is collaborative. Whether you are an AI researcher, a cybersecurity red-teamer, a game designer, or a space enthusiast, there is a place for you in the shadow of night.
-
-* 💬 **Discussions:** Join our [GitHub Discussions](#) to pitch new project ideas.
-* 🐛 **Contributions:** Check out our open repositories, look for the `good-first-issue` label, and submit a PR!
-* 📧 **Contact:** Reach out to us at `contact@noxcreations.dev`.
-
----
